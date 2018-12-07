@@ -3,6 +3,7 @@ import './App.css';
 import Playlist from '../Playlist/Playlist';
 import SearchBar from '../SearchBar/SearchBar';
 import SearchResults from '../SearchResults/SearchResults';
+import Deezer from '../../util/Deezer';
 
 class App extends Component {
 constructor(props) {
